@@ -4,7 +4,7 @@
 
 使用前请将`0.0.0.0 account.jetbrains.com`添加到 `C:\Windows\System32\drivers\etc\hosts`/`/etc/hosts` 文件中.
 
-* 下载 [破解补丁](./data/JetbrainsIdesCrack-3.4-release-enc.jar) ([idea15-2018.1.5激活补丁](./data/JetbrainsCrack-2.10-release-enc.jar))放在任意本地任意目录(假设放在`C:\JetbrainsIdesCrack-3.4-release-enc.jar`).
+* 下载 [破解补丁](./data/JetbrainsIdesCrack-3.4-release-enc.jar) ([idea15-2018.1.5激活补丁](./data/JetbrainsCrack-2.10-release-enc.jar))放在本地任意目录(假设放在`C:\JetbrainsIdesCrack-3.4-release-enc.jar`).
 * 进入你的IDEA安装目录的bin目录(比如我的是`C:\Program Files\JetBrains\IntelliJ IDEA 2018.1.1\bin`)下面, 修改`idea64.exe.vmoptions`和`idea.exe.vmoptions`文件, 在文件的最后新增一行`-javaagent:C:\JetbrainsIdesCrack-3.4-release-enc.jar`, 然后保存并关闭.
 * 启动IDEA, 选择 Activation Code, 并输入如下激活码, 或者去[IntelliJ IDEA 注册码](http://idea.lanyus.com/)获取一个新的注册码.
 
